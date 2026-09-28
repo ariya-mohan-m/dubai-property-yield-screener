@@ -1,0 +1,6 @@
+# Full DLD downloads are too large for GitHub; only samples are committed
+data/raw/
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.pbix.bak
